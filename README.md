@@ -36,7 +36,7 @@ In this demo, our multi-agent app comprises three agents:
 
 This setup highlights the power of using multiple agents in a coordinated system for creating complex applications.
 
-![Image 1](resources/1.png)<img src="resources/1.png" alt="Image 1" width="550" height="350">
+![Image 1]<img src="resources/1.png" alt="Image 1" width="550" height="350">
 ![Image 2](resources/2.png)
 ![Image 3](resources/3.png)
 ![Image 1](resources/6.png)
