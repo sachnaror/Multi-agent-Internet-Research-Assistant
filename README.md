@@ -1,4 +1,4 @@
-# Building an Internet Research Assistant with OpenAI Swarm
+# An Internet Research Assistant with OpenAI Swarm
 
 
 Recently, OpenAI released **Swarm** – an open-source framework designed to manage and coordinate multiple AI agents in a highly customizable way.
