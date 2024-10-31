@@ -35,3 +35,19 @@ In this demo, our multi-agent app comprises three agents:
 ---
 
 This setup highlights the power of using multiple agents in a coordinated system for creating complex applications.
+
+![Image 1](resources/1.png)
+![Image 2](resources/2.png)
+![Image 3](resources/3.png)
+![Image 1](resources/6.png)
+![Image 2](resources/9.png)
+![Image 3](resources/11.png)
+![Image 1](resources/14.png)
+![Image 2](resources/18.png)
+![Image 3](resources/21.png)
+![Image 1](resources/24.png)
+![Image 2](resources/27.png)
+![Image 3](resources/30.png)
+![Image 1](resources/33.png)
+![Image 2](resources/36.png)
+![Image 3](resources/40.png)
